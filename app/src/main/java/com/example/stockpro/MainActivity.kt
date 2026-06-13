@@ -1,6 +1,5 @@
 package com.example.stockpro
 
-import android.R.attr.type
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
